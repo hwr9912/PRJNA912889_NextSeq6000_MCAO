@@ -1,0 +1,5 @@
+group,SRR_id,filedirs
+S12h,SRR26331708,data/SRR26331708_filtered_feature_bc_matrix.h5
+S3h,SRR26331709,data/SRR26331709_filtered_feature_bc_matrix.h5
+sham,SRR26331710,data/SRR26331710_filtered_feature_bc_matrix.h5
+S3d,SRR26331711,data/SRR26331711_filtered_feature_bc_matrix.h5
